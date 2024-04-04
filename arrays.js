@@ -1,20 +1,20 @@
 // CODE ALONG
 
 // 1. Update the variable songList so that it is an array with at least 3 song titles.
-let songList;
-console.log();
+let songList=["Light Shower","Babylon","Flaming Hot Cheetos"];
+console.log("America Ya");
 
 // 2. Update the variable studentList so that it is an array with 4 Code Nation students (including yourself) in your class.
-let studentList;
-console.log();
+let studentList=["Lena","Kania","Logan","Kelis"];
+console.log("Ya Ya");
 
 // 3. Update the variable teacherList so that it is an array with all the Code Nation adults in your class.
-let teacherList;
-console.log();
+let teacherList=["Jake","Polly","Mia","Mason"];
+console.log("hi hi");
 
 // 4. Update the variable familyAges so that it is an array with a list of ages (numbers) of your family members.
-let familyAges;
-console.log();
+let familyAges=[17,28,56];
+console.log("age");
 
 //PAUSE HERE
 
