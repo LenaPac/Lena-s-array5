@@ -21,20 +21,20 @@ console.log("age");
 // CODE SOLO
 
 // 5. Update the variable favSong to retrieve the array element of your favorite song in the songList array (Task 1). 
-let favSong;
-console.log();
+let favSong= songList[1];
+console.log("Mel");
 
 // 6. Update the variable bestStudent to retrieve your name from the classList array (Task 2).
-let bestStudent;
-console.log();
+let bestStudent= studentList[4];
+console.log("student");
 
 // 7. Update the variable tallestTeacher to retrieve the array element of the tallest teacher in the teacherList array (Task 3).
-let tallestTeacher;
-console.log();
+let tallestTeacher= teacherList[3];
+console.log("tall");
 
 // 8. Update the variable oldestMemeber to retrieve the array element of the oldest member of your family in the familyAges array. (Task 4)
-let oldestMember;
-console.log();
+let oldestMember= familyAges [56];
+console.log("mama");
 
 // Done Early?
 //  - On your own, create an array that combines both the class list and the teacher list without rewriting the names of students and teachers.
